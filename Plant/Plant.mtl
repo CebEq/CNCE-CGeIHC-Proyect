@@ -1,0 +1,28 @@
+# Blender MTL File: 'Plant.blend'
+# Material Count: 2
+
+newmtl Leaves
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Bush_2.png
+map_Ks Bush_2_Specular.png
+map_d Bush_2_Opacity.png
+
+newmtl Pot
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Bump -bm 0.400000 Plant_Mat-Normal.png
+map_Kd Plant_Mat-Base.png
+map_Ks Plant_Mat-Specular.png

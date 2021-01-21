@@ -1,0 +1,28 @@
+# Blender MTL File: 'Fountain.blend'
+# Material Count: 2
+
+newmtl FountainBench
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Bump -bm 0.600000 FountainSides_Mat-Normal.png
+map_Kd FountainSides_Mat-Base.png
+map_Ks FountainSides_Mat-Specular.png
+
+newmtl FountainCenter
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.700000 FountainCenter_Mat-Normal.png
+map_Kd FountainCenter_Mat-Base.png
+map_Ks FountainCenter_Mat-Specular.png

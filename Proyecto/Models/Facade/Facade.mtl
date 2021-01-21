@@ -1,0 +1,419 @@
+# Blender MTL File: 'Interior.blend'
+# Material Count: 32
+
+newmtl BuildingBannerBottom
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-23_Mat-Normal.png
+map_Kd Building-23_Mat-Base.png
+map_Ks Building-22_Mat-Specular.png
+
+newmtl BuildingBannerTop
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.700000 Building-22_Mat-Normal.png
+map_Kd Building-22_Mat-Base.png
+map_Ks Building-22_Mat-Specular.png
+
+newmtl BuildingBench
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.600000 Building-11_Mat-Normal.png
+map_Kd Building-11_Mat-Base.png
+map_Ks Building-11_Mat-Specular.png
+
+newmtl BuildingBone
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.400000 Building-01_Mat-Normal.png
+map_Kd Building-01_Mat-Base.png
+map_Ks Building-01_Mat-Specular.png
+
+newmtl BuildingDarkStone
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 Building-03_Mat-Normal.png
+map_Kd Building-30_Mat-Base.png
+map_Ks Building-04_Mat-Specular.png
+
+newmtl BuildingDetails
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.011119 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 Building-07_Mat-Normal.png
+map_Kd Building-07_Mat-Base.png
+map_Ks Building-07_Mat-Specular.png
+map_d Building-07_Mat-Alpha.png
+
+newmtl BuildingFence
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.250000
+illum 9
+map_Bump Building-06_Mat-Normal.png
+map_Kd Building-20_Mat-Base.png
+map_Ks Building-06_Mat-Specular.png
+
+newmtl BuildingFenceHandle
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.600000 Building-21_Mat-Normal.png
+map_Kd Building-21_Mat-Base.png
+map_Ks Building-21_Mat-Specular.png
+
+newmtl BuildingFloorLight
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 Building-12_Mat-Normal.png
+map_Kd Building-13_Mat-Base.png
+map_Ks Building-12_Mat-Specular.png
+
+newmtl BuildingFloorMiddle
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 Building-12_Mat-Normal.png
+map_Kd Building-12_Mat-Base.png
+map_Ks Building-12_Mat-Specular.png
+
+newmtl BuildingGold
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 Building-03_Mat-Normal.png
+map_Kd Building-03_Mat-Base.png
+map_Ks Building-03_Mat-Specular.png
+
+newmtl BuildingInteriorDetails
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-27_Mat-Normal.png
+map_Kd Building-27_Mat-Base.png
+map_Ks Building-27_Mat-Specular.png
+map_d Building-27_Mat-Alpha.png
+
+newmtl BuildingInteriorFloor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-12_Mat-Normal.png
+map_Kd Building-25_Mat-Base.png
+map_Ks Building-12_Mat-Specular.png
+
+newmtl BuildingInteriorRoof
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-24_Mat-Normal.png
+map_Kd Building-24_Mat-Base.png
+map_Ks Building-24_Mat-Specular.png
+
+newmtl BuildingInteriorRoofCornice
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-29_Mat-Normal.png
+map_Kd Building-29_Mat-Base.png
+map_Ks Building-29_Mat-Specular.png
+
+newmtl BuildingInteriorRoomRoof
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-28_Mat-Normal.png
+map_Kd Building-28_Mat-Base.png
+map_Ks Building-28_Mat-Specular.png
+
+newmtl BuildingInteriorWall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 Building-26_Mat-Normal.png
+map_Kd Building-26_Mat-Base.png
+map_Ks Building-26_Mat-Specular.png
+
+newmtl BuildingMetalCorner
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-19_Mat-Normal.png
+map_Kd Building-19_Mat-Base.png
+map_Ks Building-19_Mat-Specular.png
+map_d Building-19_Mat-Alpha.png
+
+newmtl BuildingPalmLeaves
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-17_Mat-Normal.png
+map_Kd Building-18_Mat-Base.png
+map_Ks Building-17_Mat-Specular.png
+map_d Building-17_Mat-Alpha.png
+
+newmtl BuildingPalmPot
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-15_Mat-Normal.png
+map_Kd Building-15_Mat-Base.png
+map_Ks Building-15_Mat-Specular.png
+
+newmtl BuildingPalmTree
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-16_Mat-Normal.png
+map_Kd Building-16_Mat-Base.png
+map_Ks Building-16_Mat-Specular.png
+
+newmtl BuildingRoof
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-02_Mat-Normal.png
+map_Kd Building-02_Mat-Base.png
+map_Ks Building-02_Mat-Specular.png
+
+newmtl BuildingRoomFloorDecor
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 Building-32_Mat-Normal.png
+map_Kd Building-32_Mat-Base.png
+map_Ks Building-32_Mat-Specular.png
+map_d Building-32_Mat-Alpha.png
+
+newmtl BuildingRoomRoofLight
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Building-31_Mat-Base.png
+map_Ke Building-31_Mat-Base.png
+map_d Building-31_Mat-Alpha.png
+
+newmtl BuildingStairs
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.600000 Building-10_Mat-Normal.png
+map_Kd Building-10_Mat-Base.png
+map_Ks Building-10_Mat-Specular.png
+
+newmtl BuildingStone
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 Building-03_Mat-Normal.png
+map_Kd Building-04_Mat-Base.png
+map_Ks Building-04_Mat-Specular.png
+
+newmtl BuildingWall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 Building-09_Mat-Normal.png
+map_Kd Building-09_Mat-Base.png
+map_Ks Building-09_Mat-Specular.png
+
+newmtl DiamondWindow
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-06_Mat-Normal.png
+map_Kd Building-06_Mat-Base.png
+map_Ks Building-06_Mat-Specular.png
+map_d Building-06_Mat-Alpha.png
+
+newmtl GoldWindow
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Building-08_Mat-Base.png
+
+newmtl Grass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Building-14_Mat-Normal.png
+map_Kd Building-14_Mat-Base.png
+map_Ks Building-14_Mat-Specular.png
+
+newmtl RedWood
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.150000 0.150000 0.150000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.600000 Building-05_Mat-Normal.png
+map_Kd Building-05_Mat-Base.png
+map_Ks Building-05_Mat-Specular.png
+
+newmtl TempMat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.002606 0.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2

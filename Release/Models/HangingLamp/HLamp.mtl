@@ -1,0 +1,28 @@
+# Blender MTL File: 'HLamp.blend'
+# Material Count: 2
+
+newmtl LampBottom
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.400000 HLang_Mat-GlassNormal.png
+map_Kd HLamp_Mat-Glass.png
+map_d HLamp_Mat-Glass.png
+
+newmtl LampTop
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 HLamp_Mat-Normal.png
+map_Kd HLamp_Mat-Base.png
+map_Ks HLamp_Mat-Specular.png

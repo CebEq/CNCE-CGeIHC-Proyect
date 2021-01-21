@@ -1,0 +1,54 @@
+# Blender MTL File: 'PillowBench.blend'
+# Material Count: 4
+
+newmtl Bench
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 FountainSides_Mat-Normal.png
+map_Kd FountainSides_Mat-Base.png
+map_Ks FountainSides_Mat-Specular.png
+
+newmtl Bench.001
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.500000 FountainSides_Mat-Normal.png
+map_Kd FountainSides_Mat-Base.png
+map_Ks FountainSides_Mat-Specular.png
+
+newmtl Pillow
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Pillow_Mat-Normal.png
+map_Kd Pillow_Mat-Base.png
+map_Ks Pillow_Mat-Specular.png
+
+newmtl Pillow.001
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Pillow_Mat-Normal.png
+map_Kd Pillow_Mat-Base.png
+map_Ks Pillow_Mat-Specular.png

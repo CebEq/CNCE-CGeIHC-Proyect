@@ -1,0 +1,4 @@
+E:/Documents/Escuela/7to Semestre/Lab CGeIHC/PROJECT/Proyecto/Proyecto/External Libraries/glm/glm/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+E:/Documents/Escuela/7to Semestre/Lab CGeIHC/PROJECT/Proyecto/Proyecto/External Libraries/glm/glm/out/build/x64-Debug (default)/CMakeFiles/glm_static.dir
+E:/Documents/Escuela/7to Semestre/Lab CGeIHC/PROJECT/Proyecto/Proyecto/External Libraries/glm/glm/out/build/x64-Debug (default)/CMakeFiles/glm_shared.dir
+E:/Documents/Escuela/7to Semestre/Lab CGeIHC/PROJECT/Proyecto/Proyecto/External Libraries/glm/glm/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir

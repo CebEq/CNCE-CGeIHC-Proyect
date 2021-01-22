@@ -1302,12 +1302,12 @@ void DoMovement()
 		camera.ProcessKeyboard(RIGHT, deltaTime, fast);
 	}
 
-	if (keys[GLFW_KEY_Q] || keys[GLFW_KEY_RIGHT])
+	if (keys[GLFW_KEY_Q])
 	{
 		camera.ProcessKeyboard(UP, deltaTime, fast);
 	}
 
-	if (keys[GLFW_KEY_E] || keys[GLFW_KEY_RIGHT])
+	if (keys[GLFW_KEY_E])
 	{
 		camera.ProcessKeyboard(DOWN, deltaTime, fast);
 	}
